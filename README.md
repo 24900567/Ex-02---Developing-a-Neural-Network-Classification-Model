@@ -164,8 +164,11 @@ def train_model(model, train_loader, criterion, optimizer, epochs):
 Include screenshot of the dataset.
 
 ### OUTPUT
+<img width="560" height="432" alt="Screenshot 2026-02-12 151708" src="https://github.com/user-attachments/assets/5a3e48f2-ead2-4c51-b97b-3ee8771e9555" />
+<img width="359" height="525" alt="Screenshot 2026-02-12 151715" src="https://github.com/user-attachments/assets/557c2220-7fe5-4c06-acb5-116f79142415" />
 
 ## Confusion Matrix
+<img width="360" height="174" alt="Screenshot 2026-02-12 151702" src="https://github.com/user-attachments/assets/515a4c82-498e-4b54-a89d-e482d0c512e3" />
 
 Include confusion matrix here
 ### RESULT
